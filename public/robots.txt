@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /cp-page0
+
+Sitemap: https://rapidapk.com/sitemap.xml
